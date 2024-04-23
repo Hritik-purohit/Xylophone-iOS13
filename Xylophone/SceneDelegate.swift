@@ -2,8 +2,7 @@
 //  SceneDelegate.swift
 //  Xylophone
 //
-//  Created by Hritik on 28/06/2019.
-//  Copyright © 2019 The App Brewery. All rights reserved.
+//  Created by Hritik 
 //
 
 import UIKit
